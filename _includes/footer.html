@@ -8,6 +8,7 @@
 						{% if site.data.settings.client.license_number != null %}
 						<br><span>{{site.data.settings.client.license_number }}
 					{% endif %}
+						<br>{{site.data.settings.client.title}}
 	        </div>
 	        <div class="col-sm-6">
 	          <address itemprop="address">{{site.data.settings.client.address}}</address>
@@ -67,7 +68,8 @@
 					{% endif %}
 
 	      </div>
-	      <div class="col-sm-4"><a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a></div>
+	      <div class="col-sm-4">{{ site.data.settings.client.email_type }}: <a href="mailto:{{ site.data.settings.client.email }}" target="_blank">{{ site.data.settings.client.email }}</a><br />
+				{{ site.data.settings.client.email2_type }}: <a href="mailto:{{ site.data.settings.client.email2 }}" target="_blank">{{ site.data.settings.client.email2 }}</a></div>
 	      <div class="col-sm-4"><a href="{{site.data.settings.client.url}}" target="_blank">{{site.data.settings.client.url | remove: "http://" | remove: "https://"}}</a></div>
 	    </div>
 	    <div class="row">
