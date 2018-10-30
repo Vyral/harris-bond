@@ -30,7 +30,7 @@ client:
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "Looking to Build Your Real Estate Career?"
+    CTA_title: "Looking to Build Your Career?"
     CTA_text: "Let's talk about how GRN of Blackhawk can take your business to new heights."
     CTA_link_text: "Free Strategy Session"
     CTA_url: /contact/
