@@ -21,6 +21,8 @@ youtube_code: FzaHsAfunuk
 
 {% include youtube.html %}
 
+[Get your free gift now](https://youtu.be/FzaHsAfunuk)!
+
 **CCA** = **C**ompetitive **C**arriers **A**ssociation held in Florida in early October, 2018:<br>Advocacy group for smaller/Rural/Regional<br>100 members (T2/T3)
 
 Steve Berry – &nbsp;President/CEO of CCA 1:07<br>Brendan Carr – FCC Commissioner 2:00<br>David Redl - US Dept of Commerce 2:43<br>Mike Dano – Editor Fierce Wireless 3:15<br>Craig Sparks – C-Spire 3:20<br>Ron Smith – Bluegrass Cellular 3:21<br>Pat Riordon – CellCom 3:23<br>Michal Prior – ATN International / CommNet Wireless 3:25<br>Sean Kinney – RCR 4:40<br>Bill Levy – Huawei 4:47<br>Han Schiet – Nokia 4:50<br>Jan Soderstrom – Ericsson 4:52<br>Josh Wigginton – InterOpt Technologies 4:57
